@@ -2,35 +2,42 @@
 	"version": "v1.1",
 
 
-"admobrunads":"true",
+"admobrunads":"false",
 "admobbannerId": "ca-app-pub-3940256099942544/6300978111",
 "admobInterId": "ca-app-pub-3940256099942544/1033173712",
 "admobReward": "ca-app-pub-3940256099942544/5224354917",
 
-"ApplovingRunAds":"true",
+"ApplovingRunAds":"false",
 "ApplovingSdkKey": "_BAcCbeFoCiIcvJM81eMofy13FNkigCmM8AauGZdfRhK5f6DhXfuMciQbeyp0HGIvQCL5lheSIOuRdeHbuwMZu",
 "Applovingbanner": "banner",
 "Applovinginterstitial": "inter",
 "Applovingreward": "reward",
 
-"unityRunAds":"true",
+"unityRunAds":"false",
 "unityAppID": "4390175",
 "unitybanner": "Banner_Android",
 "unityinterstitial": "Interstitial_Android",
 "unityreward": "Rewarded_Android",
 
-"facebookRunAds":"true",
+"facebookRunAds":"false",
 "facebookbanner": "IMG_16_9_APP_INSTALL#555001111669630_630650440771363",
 "facebookinterstitial": "IMG_16_9_APP_INSTALL#555001111669630_630673724102368",
 "facebookreward": "IMG_16_9_APP_INSTALL#555001111669630_630539314115809",
 
-"ironrunads":"true",
+"ironrunads":"false",
 
 "ironsourceId": "40256099942544/6300978111",
 "ironbanner": "978111",
 "ironInter": "73712",
 "ironReward": "224354917",
 
+
+"YandexRunads":"true",
+
+"yandexBanner": "40256099942544/6300978111",
+"YandexInter": "978111",
+"yandexReward": "73712",
+"yandexAppOpen": "224354917",
 
 "HasApplicationURL":"true",
 
