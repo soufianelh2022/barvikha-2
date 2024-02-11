@@ -34,10 +34,10 @@
 
 "YandexRunads":"true",
 
-"yandexBanner": "40256099942544/6300978111",
-"YandexInter": "978111",
-"yandexReward": "73712",
-"yandexAppOpen": "224354917",
+"yandexBanner": "demo-banner-yandex",
+"YandexInter": "demo-interstitial-yandex",
+"yandexReward": "demo-rewarded-yandex",
+"yandexAppOpen": "demo-appopenad-yandex",
 
 "HasApplicationURL":"true",
 
@@ -57,7 +57,7 @@
 
 
 
-
+ 
 
 
 
